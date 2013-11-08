@@ -1,0 +1,9 @@
+apply plugin: 'groovy'
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  compile 'com.netflix.glisten:glisten:0.2'
+}
